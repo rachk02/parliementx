@@ -1,0 +1,19 @@
+[project]
+name = "parliement-members"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "abdoul rachid fofana",email = "rachk02@outlook.fr"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4 (>=0.0.2,<0.0.3)",
+    "requests (==2.32.3)",
+    "webdriver-manager (>=4.0.2,<5.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
