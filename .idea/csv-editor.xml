@@ -3,21 +3,35 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\nigeria_deputes.csv">
+        <entry key="\benin\deputes.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\nigeria_senateurs.csv">
+        <entry key="\burkina\noms.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\parlement_ghana.csv">
+        <entry key="\sierra_leone\membres_parlement.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\sierra_leone\parlementaires.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\togo\togo_deputes.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
