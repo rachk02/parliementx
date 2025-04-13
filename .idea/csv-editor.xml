@@ -17,14 +17,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\sierra_leone\membres_parlement.csv">
+        <entry key="\nigeria\nigeria_deputes.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\sierra_leone\parlementaires.csv">
+        <entry key="\sierra_leone\membres_parlement.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
